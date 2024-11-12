@@ -27,13 +27,11 @@
 <br><br>
 
 - :school: I am a `Junior` at [Software Engineering](https://www.usco.edu.co/es/estudia-en-la-usco/programas-pregrado/ingenieria-de-software/) at [SouthColombian University (Universidad SurColombiana)](https://www.usco.edu.co/es/).
-- :trophy: 2x `ACPC` Finalist.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a aspiring ethical hacker
 - :student: I’m currently learning `Computer Science`, `Software Engineering` and `Ethical Hacking` .
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- :thinking: I’m currently open for a new `job opportunity`.
 <br>
 
 
